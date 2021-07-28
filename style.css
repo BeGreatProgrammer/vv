@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+ img:hover{
+    background-color: gold;
+ }
+
+/****************CLASS Selectors*********/
+
+.stawbery{
+    background-color: green;
+}
+
+.charry{
+    background-color: blue;
+    width: 300px;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/***********ID Selectors*********/
+
+#heading{
+   color: grey;
+}
+
+#big{
+    font-size: 1000px;
+}
